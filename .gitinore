@@ -1,1 +1,5 @@
 *.o
+.vscode/
+build/
+out/
+Testing/
