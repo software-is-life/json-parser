@@ -22,3 +22,6 @@ Part of the [Coding Challenges](https://codingchallenges.fyi/challenges/challeng
 This project is built with C++ 20.
 
 [RFC 8259](https://www.rfc-editor.org/info/rfc8259/): STD 90: The Javascript Object Notation (JSON) Data Interchange Format.
+
+From RFC documentation:
+> A JSON parser transforms a JSON text into another representation.  A JSON parser MUST accept all texts that conform to the JSON grammar.
